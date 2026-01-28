@@ -1,0 +1,16 @@
+node_modules
+npm-debug.log
+.env
+.env.local
+.git
+.gitignore
+README.md
+TROUBLESHOOTING.md
+DEPLOY_NOW.md
+VERCEL_DEPLOYMENT.md
+START.bat
+start.sh
+uploads
+/tmp
+.DS_Store
+*.log
